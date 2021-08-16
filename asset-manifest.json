@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/facerecognitionbrain/static/css/main.84c52cca.chunk.css",
-    "main.js": "/facerecognitionbrain/static/js/main.d5c126d4.chunk.js",
-    "main.js.map": "/facerecognitionbrain/static/js/main.d5c126d4.chunk.js.map",
-    "runtime-main.js": "/facerecognitionbrain/static/js/runtime-main.996da0e2.js",
-    "runtime-main.js.map": "/facerecognitionbrain/static/js/runtime-main.996da0e2.js.map",
+    "main.css": "/facerecognitionbrain/static/css/main.bb47e71b.chunk.css",
+    "main.js": "/facerecognitionbrain/static/js/main.1f476af8.chunk.js",
+    "main.js.map": "/facerecognitionbrain/static/js/main.1f476af8.chunk.js.map",
+    "runtime-main.js": "/facerecognitionbrain/static/js/runtime-main.5bf32340.js",
+    "runtime-main.js.map": "/facerecognitionbrain/static/js/runtime-main.5bf32340.js.map",
     "static/css/2.6d7c7915.chunk.css": "/facerecognitionbrain/static/css/2.6d7c7915.chunk.css",
-    "static/js/2.a9cbf8fe.chunk.js": "/facerecognitionbrain/static/js/2.a9cbf8fe.chunk.js",
-    "static/js/2.a9cbf8fe.chunk.js.map": "/facerecognitionbrain/static/js/2.a9cbf8fe.chunk.js.map",
-    "static/js/3.dd0edfac.chunk.js": "/facerecognitionbrain/static/js/3.dd0edfac.chunk.js",
-    "static/js/3.dd0edfac.chunk.js.map": "/facerecognitionbrain/static/js/3.dd0edfac.chunk.js.map",
+    "static/js/2.30215055.chunk.js": "/facerecognitionbrain/static/js/2.30215055.chunk.js",
+    "static/js/2.30215055.chunk.js.map": "/facerecognitionbrain/static/js/2.30215055.chunk.js.map",
+    "static/js/3.0c9fc8f7.chunk.js": "/facerecognitionbrain/static/js/3.0c9fc8f7.chunk.js",
+    "static/js/3.0c9fc8f7.chunk.js.map": "/facerecognitionbrain/static/js/3.0c9fc8f7.chunk.js.map",
     "index.html": "/facerecognitionbrain/index.html",
     "static/css/2.6d7c7915.chunk.css.map": "/facerecognitionbrain/static/css/2.6d7c7915.chunk.css.map",
-    "static/css/main.84c52cca.chunk.css.map": "/facerecognitionbrain/static/css/main.84c52cca.chunk.css.map",
-    "static/js/2.a9cbf8fe.chunk.js.LICENSE.txt": "/facerecognitionbrain/static/js/2.a9cbf8fe.chunk.js.LICENSE.txt",
+    "static/css/main.bb47e71b.chunk.css.map": "/facerecognitionbrain/static/css/main.bb47e71b.chunk.css.map",
+    "static/js/2.30215055.chunk.js.LICENSE.txt": "/facerecognitionbrain/static/js/2.30215055.chunk.js.LICENSE.txt",
     "static/media/wale.5d57450d.png": "/facerecognitionbrain/static/media/wale.5d57450d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.996da0e2.js",
+    "static/js/runtime-main.5bf32340.js",
     "static/css/2.6d7c7915.chunk.css",
-    "static/js/2.a9cbf8fe.chunk.js",
-    "static/css/main.84c52cca.chunk.css",
-    "static/js/main.d5c126d4.chunk.js"
+    "static/js/2.30215055.chunk.js",
+    "static/css/main.bb47e71b.chunk.css",
+    "static/js/main.1f476af8.chunk.js"
   ]
 }
